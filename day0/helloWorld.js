@@ -5,4 +5,4 @@ function greeting(parameterVariable) {
     console.log(parameterVariable);
 }
 
-greeting("Aniketdvd");
+// greeting("Aniketdvd");
